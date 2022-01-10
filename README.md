@@ -1,4 +1,4 @@
-# Join-to-create
-A discord that make vc on joining vc
+# GENBOT
+A discord that Gen the minecraft acc using Team IC API
 
-# COMMING SOON
+# This bot is made in PY till Now
