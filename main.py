@@ -9,7 +9,7 @@ intents = discord.Intents.default()
 intents.members = True
 bot = commands.Bot(command_prefix=prefix, intents=intents)
 
-bypass_id = [887274088249323560]
+bypass_id = [Your_ID_here]
 
 @bot.event
 async def on_ready():
